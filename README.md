@@ -3,6 +3,7 @@
 * [📄 Официальный сайт производителя](https://stenli.ru/korund-di-001mrs?ysclid=mgf6fkn7bn85177845#shop2-tabs-2)
 * [`modbus_config_setup.zip`](https://stenli.ru/f/modbus_config_setup.zip) - официальный сайт
 * [`modbus_config_setup.zip`](https://github.com/SmithLEDs/wb-template_KORUND-DI-001MRS/blob/main/modbus_config_setup.zip) - сохраненная версия на GitHub
+* [Руководство по эксплуатации](https://github.com/SmithLEDs/wb-template_KORUND-DI-001MRS/blob/main/0rukovodstvo_po_ekspluatatsii_korund_dkh_mrs.pdf)
 
 ## Настройки подключения RS-485 по умолчанию
 | Параметр      | Значение по умолчанию |
