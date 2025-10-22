@@ -1,8 +1,8 @@
 # Шаблон для датчика избыточного давления с выходом RS-485 КОРУНД-ДИ-001MRS
 Данный шаблон написан для контроллера Wiren Board. Инструкция по установке шаблона смотри на [главной странице](https://github.com/SmithLEDs/wirenboard#установка-шаблонов-в-контроллер).
-* [📄 Официальный сайт производителя](https://stenli.ru/korund-di-001mrs?ysclid=mgf6fkn7bn85177845#shop2-tabs-2)
-* [`modbus_config_setup.zip`](https://stenli.ru/f/modbus_config_setup.zip) - официальный сайт
-* [`modbus_config_setup.zip`](https://github.com/SmithLEDs/wb-template_KORUND-DI-001MRS/blob/main/modbus_config_setup.zip) - сохраненная версия на GitHub
+* [Официальный сайт производителя](https://stenli.ru/korund-di-001mrs?ysclid=mgf6fkn7bn85177845#shop2-tabs-2)
+* [modbus_config_setup.zip](https://stenli.ru/f/modbus_config_setup.zip) - официальный сайт
+* [modbus_config_setup.zip](https://github.com/SmithLEDs/wb-template_KORUND-DI-001MRS/blob/main/modbus_config_setup.zip) - сохраненная версия на GitHub
 * [Руководство по эксплуатации](https://github.com/SmithLEDs/wb-template_KORUND-DI-001MRS/blob/main/0rukovodstvo_po_ekspluatatsii_korund_dkh_mrs.pdf)
 
 ## Настройки подключения RS-485 по умолчанию
