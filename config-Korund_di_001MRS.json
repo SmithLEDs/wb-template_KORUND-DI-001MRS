@@ -20,7 +20,7 @@
                 "address": "0x08",
                 "format" : "float",
                 "scale" : 1,
-                "type": "pressure",
+                "type": "value",
                 "readonly" : true,
                 "group": "general",
                 "units" : "MPa"
